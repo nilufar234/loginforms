@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}.one{
+   width: 900px;
+   height: 680px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   text-align: center;
+   border: 10px ridge rgb(23, 255, 166);
+   margin: 0 auto;
+
+}
+h2{
+    text-underline-position: auto;
+}
+input{
+    width: 220px;
+    height: 28px;
+    background-color: rgb(175, 250, 220);
+}
+.bir{
+    width:550px ;
+    height:540px ;
+    margin: 0 auto;
+    padding: 30px;
+    border:10px ridge rgb(23, 255, 166) ;
+    text-align: justify;
+    }
+    #img1{
+        float: left; margin-right: 20px;
+       
+    }
+    .ikki{
+        width:550px ;
+        height:500px ;
+        margin: 0 auto;
+        padding: 30px;
+        border:10px ridge rgb(23, 255, 166) ;
+        text-align: justify;
+    }
+    #img2{
+        float: left; margin-right: 20px;
+    }
+    .uch{
+        width:550px ;
+        height:500px ;
+        margin: 0 auto;
+        padding: 30px;
+        border:10px ridge rgb(23, 255, 166) ;
+        text-align: justify;
+    }
+    #img3{ float: left; margin-right: 20px;}
+    
